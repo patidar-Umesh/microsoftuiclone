@@ -1,9 +1,6 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.4.1"
-},
-"scripts": {
-  "build": "node src/index.html"
 }
 }
 
